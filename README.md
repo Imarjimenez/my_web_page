@@ -12,11 +12,6 @@
 10. git commit -m "Se crea el archivo aboutme.css y se pega el contenido"
 11. git add .
 12. git commit -m "Completo mi información personal"
-13. git add .
-14. git commit -m "Crear archivo index.html y pegar el contenido"
-15. git add .
-16. git commit -m "Agrego direcciones de redes sociales"
-17. 
 
 
 
